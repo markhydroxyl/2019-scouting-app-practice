@@ -1,0 +1,66 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fswiss\fcharset0 ArialMT;\f1\fnil\fcharset128 HiraginoSans-W3;\f2\fnil\fcharset134 PingFangSC-Regular;
+}
+{\colortbl;\red255\green255\blue255;\red26\green26\blue26;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl220\partightenfactor0
+
+\f0\fs20 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 How many shrimps do you have to eat?\cb1 \
+\cb3 before you make your skin turn pink\cb1 \
+\cb3 eat too much and you'll get sick\cb1 \
+\cb3 shrimps are pretty rich\
+Nande aitsura wa pinku?\cb1 \
+\cb3 Doubutsu-en de omou to pinku\cb1 \
+\cb3 Tabemono de, sou nanda\cb1 \
+\cb3 Jitsu wa watashi wa tarako ga daisuki\cb1 \
+\cb3 Purasu ebi kani tabeyo\cb1 \
+\cb3 Pinku iro ni naru no\cb1 \
+\cb3 Dakara minna chigau iro\cb1 \
+\cb3 Ningen-de kanchigai\cb1 \
+\cb3 Shiteru yo ne\
+Black, white, green or blue\cb1 \
+\cb3 show off your natural hue\cb1 \
+\cb3 flamingo, oh oh owoah\cb1 \
+\cb3 if you're multicouloured that's cool too\cb1 \
+\cb3 You, dont, need to change\cb1 \
+\cb3 it's boring being the same\cb1 \
+\cb3 flamingo, oh oh oh\cb1 \
+\cb3 You're pretty either way\
+Tsuru no shippo shita ni mukatte magetara FURAMINGO
+\f1 \'81\'60
+\f0 \cb1 \
+\cb3 Imi fumei dakedo omoshiroi deshou\cb1 \
+\cb3 Niji iro ni somatte sekai\cb1 \
+\cb3 Kyou mo chikyuu no doko ka de\cb1 \
+\cb3 Ebi wo mushamusha tabete\cb1 \
+\cb3 Furamingo wa, pinku iro ni\cb1 \
+\cb3 Somatte ikuze 
+\f2 \'a3\'b1\'a3\'b2\'a3\'b3\'a3\'a1
+\f0 \
+Black, white, green or blue\cb1 \
+\cb3 show off your natural hue\cb1 \
+\cb3 flamingo, oh oh oh\cb1 \
+\cb3 if you're multicouloured that's cool too\cb1 \
+\cb3 You, dont, need to change\cb1 \
+\cb3 it's boring being the same\cb1 \
+\cb3 flamingo, oh oh oh\cb1 \
+\cb3 You're pretty either way\
+Flamingo\
+How many shrimps do you have to eat?\cb1 \
+\cb3 before you make your skin turn pink\cb1 \
+\cb3 eat too much and you'll get sick\cb1 \
+\cb3 shrimps are pretty rich\
+green or blue\cb1 \
+\cb3 show off your natural hue\cb1 \
+\cb3 flamingo, oh oh oh\cb1 \
+\cb3 if you're multicouloured that's cool too\cb1 \
+\cb3 You, dont, need to change\cb1 \
+\cb3 it's boring being the same\cb1 \
+\cb3 flamingo, oh oh oh\cb1 \
+\cb3 You're pretty either way\
+flamingo, oh oh oh\
+PINK!\
+flamingo, oh oh oh\
+}
